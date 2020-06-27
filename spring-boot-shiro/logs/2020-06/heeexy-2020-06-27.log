@@ -1,0 +1,12 @@
+2020-06-27 18:49:33.901 INFO  --- [StartupInfoLogger.java:55][restartedMain] - Starting MyApplication on LAPTOP-0E0MUHA0 with PID 14152 (D:\Work\LearnSpace\Vue\ShiroLearn\SpringBoot-Shiro-Vue\spring-boot-shiro\target\classes started by Admin in D:\Work\LearnSpace\Vue\ShiroLearn\SpringBoot-Shiro-Vue\spring-boot-shiro)
+2020-06-27 18:49:33.903 INFO  --- [SpringApplication.java:651][restartedMain] - No active profile set, falling back to default profiles: default
+2020-06-27 18:49:36.127 INFO  --- [StartupInfoLogger.java:61][restartedMain] - Started MyApplication in 2.517 seconds (JVM running for 4.162)
+2020-06-27 18:50:19.614 INFO  --- [HikariDataSource.java:110][http-nio-8080-exec-1] - HikariPool-1 - Starting...
+2020-06-27 18:50:20.168 INFO  --- [HikariDataSource.java:123][http-nio-8080-exec-1] - HikariPool-1 - Start completed.
+2020-06-27 18:50:22.731 INFO  --- [UserRealm.java:39][http-nio-8080-exec-3] - permission的值为:{"menuList":["role","book","user","article"],"roleId":1,"nickname":"超级用户23","roleName":"管理员","permissionList":["book:add","user:list","book:update","user:add","role:update","article:add","user:update","book:list","role:add","article:list","role:list","article:update","role:delete"],"userId":10003}
+2020-06-27 18:50:22.731 INFO  --- [UserRealm.java:40][http-nio-8080-exec-3] - 本用户权限为:[book:add, user:list, book:update, user:add, role:update, article:add, user:update, book:list, role:add, article:list, role:list, article:update, role:delete]
+2020-06-27 18:56:28.109 INFO  --- [StartupInfoLogger.java:55][restartedMain] - Starting MyApplication on LAPTOP-0E0MUHA0 with PID 6456 (D:\Work\LearnSpace\Vue\ShiroLearn\SpringBoot-Shiro-Vue\spring-boot-shiro\target\classes started by Admin in D:\Work\LearnSpace\Vue\ShiroLearn\SpringBoot-Shiro-Vue\spring-boot-shiro)
+2020-06-27 18:56:28.112 INFO  --- [SpringApplication.java:651][restartedMain] - No active profile set, falling back to default profiles: default
+2020-06-27 18:56:30.714 INFO  --- [StartupInfoLogger.java:61][restartedMain] - Started MyApplication in 3.067 seconds (JVM running for 5.596)
+2020-06-27 18:57:04.743 INFO  --- [HikariDataSource.java:110][http-nio-8080-exec-1] - HikariPool-1 - Starting...
+2020-06-27 18:57:05.293 INFO  --- [HikariDataSource.java:123][http-nio-8080-exec-1] - HikariPool-1 - Start completed.
